@@ -1,0 +1,15 @@
+* {
+    margin:0;
+    padding:0;
+}
+
+body {
+    font-family: 'Courier New','Courier', monospace;
+    text-align: center;
+    background: url(snakePic.jpg) no-repeat fixed center;
+    background-size: cover;
+    border-radius: 4px;
+    max-width: 100%;
+    max-height: auto;
+    padding-top: 7%;
+}
